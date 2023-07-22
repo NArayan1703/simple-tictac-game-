@@ -41,7 +41,7 @@ If you have any suggestions or improvements for this project, feel free to open 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is just for begineers like me to learn something.
 
 ---
 
